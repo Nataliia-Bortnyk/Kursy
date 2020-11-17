@@ -1,0 +1,21 @@
+:root{
+    --main-color: blue;
+
+    --heder-color: rgb(235, 227, 227);
+    --side-panel: #F8DAC1 ;
+    --footer-color: #A49E99;
+
+    --middl-content-color: rgb(162, 162, 223);
+    --lower-content-color: rgb(245, 196, 106);
+
+    --upper-center-color: rgb(240, 157, 157);
+    --upper-left-color: rgb(211, 211, 236);
+    --upper-right-color: rgb(98, 98, 158);
+
+    /*height*/
+    --menu-height: 70px;
+    --content-main-area-height: 600px;
+    --artecle-area-height: 150px;
+    --footer-height: 200px;
+
+}

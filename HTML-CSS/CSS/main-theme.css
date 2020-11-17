@@ -1,0 +1,16 @@
+footer{
+    background: orange;
+}
+body{
+    padding: 0%;
+    margin: 0%;
+}
+div{
+    color: var(--main-color);
+}
+main section div p{
+    background: var(--main-color);
+    color: fff;
+    column-count: 2;
+    font-size: 22px;
+}
